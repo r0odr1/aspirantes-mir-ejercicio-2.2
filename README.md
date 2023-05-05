@@ -1,4 +1,4 @@
-Rodrigo Bonilla
+Rodrigo Bonilla Patricia Torres
 
 rhobt@LAPTOP-1R1SCJ54 MINGW64 ~/projects/ejercicios (master) $ git init Inicializado repositorio Git vacío en C:/Users/rhobt/Projects/ejercicios/.git/
 
